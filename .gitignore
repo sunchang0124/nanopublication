@@ -1,0 +1,9 @@
+.d2sconfig
+workspace/
+
+output/
+input/
+
+.DS_Store
+
+*.yarrr.rml.ttl
